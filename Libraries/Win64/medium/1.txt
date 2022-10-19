@@ -1,0 +1,9 @@
+medium.cpp.obj    _ZN6medium4var16accessENS0_1SE
+medium.cpp.obj    _ZN6medium4var26accessERKNS0_1SE
+medium.cpp.obj    _ZN6medium4var36accessERKNS0_1SE
+medium.cpp.obj    _ZN6medium4var46accessENS0_1SE
+medium.cpp.obj    _ZN6medium4var56accessENS0_1SE
+medium.cpp.obj    _ZN6medium4var66accessERKNS0_1SE
+medium.cpp.obj    _ZN6medium4var76accessERKNS0_1SE
+medium.cpp.obj    _ZN6medium4var86accessENS0_1SE
+medium.cpp.obj    _ZN6medium4var96accessENS0_1SE

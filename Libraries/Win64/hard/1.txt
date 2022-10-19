@@ -1,0 +1,9 @@
+hard.cpp.obj    _ZN4hard4var11C6accessENS0_1SE
+hard.cpp.obj    _ZN4hard4var21C6accessERKNS0_1SE
+hard.cpp.obj    _ZN4hard4var31C6accessENS0_1SE
+hard.cpp.obj    _ZN4hard4var41C6accessERKNS0_1SE
+hard.cpp.obj    _ZN4hard4var51C6accessENS0_1SE
+hard.cpp.obj    _ZN4hard4var61C6accessERNS0_1SE
+hard.cpp.obj    _ZN4hard4var71C6accessERKNS0_1SE
+hard.cpp.obj    _ZN4hard4var81C6accessENS0_1SE
+hard.cpp.obj    _ZN4hard4var91C6accessENS0_1SE
