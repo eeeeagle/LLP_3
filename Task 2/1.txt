@@ -1,9 +1,0 @@
-easy.cpp.obj    access1
-easy.cpp.obj    access2
-easy.cpp.obj    access3
-easy.cpp.obj    access4
-easy.cpp.obj    access5
-easy.cpp.obj    access6
-easy.cpp.obj    access7
-easy.cpp.obj    access8
-easy.cpp.obj    access9
